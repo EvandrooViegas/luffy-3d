@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    cursor: pointer;
+    overflow-x: hidden;
+}
+
+.canva-z {
+    z-index: 10;
+}
+
+.canva-foreground-z {
+    z-index: 30;
+
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
